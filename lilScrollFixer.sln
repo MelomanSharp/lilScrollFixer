@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lilScrollFixer", "lilScrollFixer\lilScrollFixer.csproj", "{23C9525F-DE88-46AF-B55D-D8FD6F50892E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C9525F-DE88-46AF-B55D-D8FD6F50892E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C9525F-DE88-46AF-B55D-D8FD6F50892E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C9525F-DE88-46AF-B55D-D8FD6F50892E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C9525F-DE88-46AF-B55D-D8FD6F50892E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {620AB1E6-FE2B-4127-9A25-96E0A48D21F3}
+	EndGlobalSection
+EndGlobal
